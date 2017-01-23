@@ -1,0 +1,8 @@
+To run all rspec tests that are located in the spec directory type this
+into the terminal:
+
+  ` rspec `
+
+If you only want to see one failing test at a time, type:
+
+` rspec --fail-fast `

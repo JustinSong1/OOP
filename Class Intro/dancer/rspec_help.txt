@@ -1,0 +1,10 @@
+To run rspec tests, type this into the terminal:
+
+  `rspec spec`
+
+This will run all files in the spec folder.
+
+If you want rspec to stop running after your first failed test to 
+reduce your screen output, run this command:
+
+  `rspec --fail-fast spec`
